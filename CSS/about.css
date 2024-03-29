@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: black;
+}
+
+#cabecalho{
+    background-color: blue;
+}
+
+ul .link{
+    color: #000000;
+    display: inline;
+    margin: 5px;
+
+     /* Nesting links */
+        a{
+            text-decoration: none;
+            color: #000000;
+        }
+    
+}
+
+
+#menu ul{
+    text-align: center;
+    
+}

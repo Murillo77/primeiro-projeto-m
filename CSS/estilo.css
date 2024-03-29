@@ -16,7 +16,8 @@
 
 /* Tag */
 h1{
-    color: #09af17;
+    color:black;
+    text-align: center;
 }
 
 /* Class */
@@ -26,14 +27,14 @@ h1{
 }
 
 ul .link{
-    color: #d8801b;
+    color: #000000;
     display: inline;
     margin: 5px;
 
      /* Nesting links */
         a{
             text-decoration: none;
-            color: #e8240e;
+            color: #000000;
         }
     
 }
@@ -50,4 +51,8 @@ ul .link{
     height: 100%;
     border: 2px solid #000;
     margin: 0 auto;
+}
+
+#cabecalho{
+    background-color: blue;
 }
