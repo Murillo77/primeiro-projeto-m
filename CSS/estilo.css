@@ -67,6 +67,12 @@ ul .link{
     margin: 20px auto;
 }
 
+.rodape{
+    margin: 20px;
+    border-top: solid 2px;
+    border-color: red;
+}
+
 
 /* ID */
 
