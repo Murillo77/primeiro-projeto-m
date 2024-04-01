@@ -32,6 +32,10 @@ form{
 
 }
 
+p{
+    color: green;
+}
+
 /* Class */
 .link{
     color: #09af17;
